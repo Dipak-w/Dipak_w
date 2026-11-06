@@ -1,0 +1,21 @@
+# 💫 About Me:
+Hi, I’m Dipak Waghmare 👋<br><br>AI/GenAI & AWS Cloud Engineer with nearly 5 years of experience building, evaluating, and operating enterprise AI and cloud solutions.<br><br>I work at the intersection of Generative AI, LLM quality engineering, Python automation, and AWS cloud reliability. My focus is building AI systems that are accurate, safe, cost-effective, and operationally reliable.<br><br>🔭 What I work on<br><br>LLM evaluation and quality assurance<br>RAG-based knowledge assistants<br>Python automation and AI workflow tooling<br>AWS cloud operations and infrastructure automation<br>MLOps, monitoring, CI/CD, and responsible AI practices<br>🛠️ Core Stack<br><br>GenAI & LLMs: LLM Evaluation, RAG, Prompt Engineering, OpenAI API, Gemini API, Claude, Hugging Face, Embeddings, Vector Retrieval, ROUGE, Schema Validation, AI Safety<br><br>Cloud & DevOps: AWS, EC2, S3, RDS, Lambda, IAM, VPC, Auto Scaling, ECS, ECR, CloudWatch, Terraform, Docker, CI/CD, Infrastructure as Code<br><br>Programming & Tools: Python, FastAPI, Git/GitHub, Jira, ServiceNow, PagerDuty, Splunk, JSON, Excel Reporting<br><br>🚀 Featured Projects<br><br>LLM Evaluation Framework — Multi-model evaluation for schema compliance, factual accuracy, safety, and summarization quality.<br>Repository link coming soon<br><br>Enterprise RAG Assistant — RAG-based knowledge assistant with document ingestion, embeddings, retrieval, citations, and evaluation.<br>Repository link coming soon<br><br>AWS AI Deployment Kit — Terraform and Docker-based deployment pattern for LLM/RAG applications on AWS.<br>Repository link coming soon<br><br>🌱 Currently Learning<br>Kubernetes and container orchestration<br>Advanced LLMOps: prompt versioning, evaluation pipelines, and observability<br>Production-grade RAG and agentic AI patterns<br>📫 Connect with me<br>LinkedIn: Dipak Waghmare<br>Portfolio: dipak-w.github.io/my-portfolio<br>Email: deepakkw3@gmail.com
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bckpck3r_d1pk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipak-waghmare) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepakkw3@gmail.com) 
+
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Dipak-w&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Dipak-w&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dipak-w&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Dipak-w&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://komarev.com/ghpvc/?username=Dipak-w&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
